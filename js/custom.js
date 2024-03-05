@@ -12,7 +12,7 @@
 	
 	$('a.ticket-link').webuiPopover({
 		url:'#ticket-wrap',
-		width: 300,
+		width: 500,
 		animation: 'pop',
 		arrow: true
 	});
@@ -87,7 +87,7 @@
 		//Countdown
 		
         $('.countdown').downCount({
-            date: '06/17/2023 12:00:00'
+            date: '05/05/2024 11:00:00'
         }, function () {
             alert('WOOT WOOT, done!');
         });
@@ -107,4 +107,4 @@
 
 	});	
 	
-})(jQuery); 
+})(jQuery);

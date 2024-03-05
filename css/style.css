@@ -783,7 +783,7 @@ main {
 	content: '';
 	width: 40%;
 	height: 10px;
-	background: linear-gradient(45deg, #000, #333);
+	background: linear-gradient(113deg, #0f19f7, #10f3dd 0%, rgba(255, 64, 241, 0.66));
 	position: absolute;
 	left: 0;
 	bottom: 0;
